@@ -1,5 +1,5 @@
 import React from 'react';
-import Fairytalequiz from '.fairytalequiz/Fairytalequiz.js';
+import Fairytalequiz from './fairytalequiz.js';
 
 function App() {
   return (
